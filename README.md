@@ -8,6 +8,6 @@ Data visualization – Graphs, heatmaps, and trend lines for clear insights.
 Time-series insights – Understand seasonal and long-term search patterns.
 
 Tech Stack
-Platform: Google Colab
-Libraries: pandas, matplotlib, seaborn, pytrends
-Data Source: Google Trends API
+- Platform: Google Colab
+- Libraries: pandas, matplotlib, seaborn, pytrends
+- Data Source: Google Trends API
